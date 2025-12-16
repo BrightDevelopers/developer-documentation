@@ -1,5 +1,5 @@
 <div align="center">
-<img src="./assets/brightdeveloper-banner.png" alt="BrightDeveloper - Build for BrightSign" width="100%">
+<img src="./part-7-assets/brightdeveloper-banner.png" alt="BrightDeveloper - Build for BrightSign" width="100%">
 
 **The Complete Guide to BrightSign® Development**
 
@@ -102,10 +102,10 @@ If you need information on how to **use these BrightSign products**, please see 
 
 | Resource | Description |
 |----------|-------------|
-| [API Reference](appendices/api-reference.md) | Complete API documentation |
-| [Troubleshooting](appendices/troubleshooting.md) | Common issues and solutions |
+| [API Reference](part-6-appendices/api-reference.md) | Complete API documentation |
+| [Troubleshooting](part-6-appendices/troubleshooting.md) | Common issues and solutions |
 
-[**View Appendices →**](appendices/README.md)
+[**View Appendices →**](part-6-appendices/README.md)
 
 ---
 
@@ -176,7 +176,7 @@ We welcome contributions from the community! Please see [CONTRIBUTING.md](CONTRI
 
 <div align="center">
 
-<img src="assets/brand/brightsign-logo-square.png" alt="BrightSign" width="60">
+<img src="part-7-assets/brand/brightsign-logo-square.png" alt="BrightSign" width="60">
 
 **Brought to Life by BrightSign®**
 

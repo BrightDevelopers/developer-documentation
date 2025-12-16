@@ -55,6 +55,6 @@ Python and JavaScript examples for cloud integration:
 
 <div align="center">
 
-[← Part 4: Advanced Topics](../part-4-advanced-topics/README.md) · [Appendices →](../appendices/README.md)
+[← Part 4: Advanced Topics](../part-4-advanced-topics/README.md) · [Appendices →](../part-6-appendices/README.md)
 
 </div>

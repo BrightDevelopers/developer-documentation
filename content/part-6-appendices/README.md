@@ -2,7 +2,7 @@
 
 [← Back to Main](../README.md) · [← Part 5](../part-5-bsn-cloud/README.md)
 
-# Appendices
+# Part 6: Appendices
 
 **Reference materials and troubleshooting guides**
 
