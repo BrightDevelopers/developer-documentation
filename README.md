@@ -9,12 +9,6 @@
 [![Product Documentation](https://img.shields.io/badge/Product%20Docs-701896?style=for-the-badge)](https://docs.brightsign.biz/)
 [![BSN.cloud](https://img.shields.io/badge/BSN%20Cloud-49C0FF?style=for-the-badge)](https://www.bsn.cloud/)
 
-**The Complete Guide to BrightSign® Development**
-
-*Attract. Engage. Captivate.*
-
----
-
 </div>
 
 ---
