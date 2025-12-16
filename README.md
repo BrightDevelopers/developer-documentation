@@ -9,7 +9,7 @@
 *Attract. Engage. Captivate.*
 
 [![BrightSign](https://img.shields.io/badge/brightsign.biz-8A2BE2?style=for-the-badge)](https://brightsign.biz)
-[![Product Documentation](https://img.shields.io/badge/Docs-brightsign.biz-701896?style=for-the-badge)](https://docs.brightsign.biz/)
+[![Product Documentation](https://img.shields.io/badge/Product%20Docs-701896?style=for-the-badge)](https://docs.brightsign.biz/)
 [![BSN.cloud](https://img.shields.io/badge/BSN-Cloud-49C0FF?style=for-the-badge)](https://www.bsn.cloud/)
 
 ---
