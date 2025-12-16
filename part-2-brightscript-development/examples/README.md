@@ -1,10 +1,16 @@
-# BrightScript Examples
+<div align="center">
 
 [← Back to Part 2](../README.md)
 
+# BrightScript Examples
+
+**Practical code examples to accelerate your development**
+
+</div>
+
 ---
 
-Practical BrightScript examples organized by category.
+Production-ready BrightScript examples organized by category. Each example is fully documented and tested on BrightSign® hardware.
 
 ## Categories
 
@@ -83,4 +89,8 @@ Helper functions and tools.
 
 ---
 
+<div align="center">
+
 [← Back to Part 2](../README.md)
+
+</div>

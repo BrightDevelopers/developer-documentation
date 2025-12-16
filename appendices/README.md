@@ -1,26 +1,37 @@
+<div align="center">
+
+[← Back to Main](../README.md) · [← Part 5](../part-5-bsn-cloud/README.md)
+
 # Appendices
 
-[← Back to Main](../README.md)
+**Reference materials and troubleshooting guides**
 
----
-
-Reference materials and troubleshooting guides.
+</div>
 
 ---
 
 ## Contents
 
-- [API Reference](api-reference.md) - Complete API documentation
-- [Troubleshooting](troubleshooting.md) - Common issues and solutions
+| Resource | Description |
+|----------|-------------|
+| [API Reference](api-reference.md) | Complete API documentation |
+| [Troubleshooting](troubleshooting.md) | Common issues and solutions |
 
 ---
 
 ## Additional Resources
 
-- [BrightSign Official Documentation](https://docs.brightsign.biz/)
-- [BrightSign GitHub](https://github.com/brightsign)
-- [BSN.cloud API Reference](https://docs.bsn.cloud/)
+| Resource | Description |
+|----------|-------------|
+| [BrightSign Documentation](https://docs.brightsign.biz/) | Official technical documentation |
+| [BrightSign GitHub](https://github.com/brightsign) | Open source tools and SDKs |
+| [BSN.cloud API Reference](https://docs.bsn.cloud/) | Cloud platform API documentation |
+| [BrightSign Community](https://community.brightsign.biz/) | Forums and developer community |
 
 ---
 
-[← Part 5: BSN Cloud](../part-5-bsn-cloud/README.md) | [Back to Main →](../README.md)
+<div align="center">
+
+[← Part 5: BSN.cloud](../part-5-bsn-cloud/README.md) · [Back to Main →](../README.md)
+
+</div>
