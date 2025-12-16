@@ -162,9 +162,9 @@ Cloud management platform
 
 Need help? BrightSign provides comprehensive support resources:
 
-- **Documentation**: [docs.brightsign.biz](https://docs.brightsign.biz/)
-- **Community**: [BrightSign Community Forums](https://community.brightsign.biz/)
-- **Support**: [brightsign.biz/support](https://www.brightsign.biz/support/)
+- **Product Documentation**: [docs.brightsign.biz](https://docs.brightsign.biz/)
+- **Developer Community**: [BrightSign Community Forums](https://community.brightsign.biz/)
+- **Product Support**: [brightsign.biz/support](https://www.brightsign.biz/support/)
 
 ---
 
@@ -181,7 +181,5 @@ We welcome contributions from the community! Please see [CONTRIBUTING.md](CONTRI
 **Brought to Life by BrightSign®**
 
 © 2025 BrightSign LLC. All rights reserved.
-
-[brightsign.biz](https://brightsign.biz) · [Documentation](https://docs.brightsign.biz/) · [BSN.cloud](https://www.bsn.cloud/)
 
 </div>
