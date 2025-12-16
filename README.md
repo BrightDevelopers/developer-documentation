@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="assets/brand/brightsign-logo.png" alt="BrightSign" width="400">
-
-# BrightDeveloper
+<p align="center">
+  <img src="../images/brightdeveloper-banner.png" alt="BrightDeveloper - Build for BrightSign" width="100%">
+</p>
 
 **The Complete Guide to BrightSign® Development**
 
@@ -14,29 +14,18 @@
 
 ---
 
-Everything you need to become a BrightSign® expert.
-
 </div>
 
 ---
 
-## Welcome
+## About BrightDeveloper
 
-Welcome to BrightDeveloper, your comprehensive resource for developing applications on BrightSign® digital signage players. Whether you're writing BrightScript, JavaScript, building native extensions, or integrating with BSN.cloud, this guide empowers you to create dynamic digital signage experiences.
+**BrightDeveloper** is the official developer program from [BrightSign®](https://brightsign.biz), the global market leader in digital signage media players.
 
-BrightSign players are trusted by leading organizations worldwide to deliver reliable, high-quality digital signage. This documentation helps you harness the full power of the platform.
+This GitHub organization is "**by developers __for__ developers**" and hosts detailed Engineering and API documentation, example code, SDKs, and open-source tools to help you build applications that integrate with BrightSign.
 
----
-
-## Quick Start
-
-New to BrightSign development? Start here:
-
-| Step | Resource | Description |
-|:----:|----------|-------------|
-| 1 | [Introduction to BrightSign Players](part-1-getting-started/01-introduction-to-brightsign-players.md) | Understand the hardware platform and its capabilities |
-| 2 | [BrightScript Language Reference](part-2-brightscript-development/01-brightscript-language-reference.md) | Learn the native scripting language |
-| 3 | [Hello World Example](part-2-brightscript-development/examples/foundations/01-hello-world.brs) | Run your first BrightScript program |
+These pages are specific to folks writing software that works with BrightSign.  For many users, our turnkey solutions provide everything you need.  You can create and publish presentations without code using [**BrightAuthor:connected**](https://www.brightsign.biz/brightauthor-connected/) and manage players using [**BSN.cloud**](https://www.brightsign.biz/bsn-cloud/).
+If you need information on how to **use these BrightSign products**, please see the [BrightSign Support Site.](https://www.brightsign.biz/support)
 
 ---
 
