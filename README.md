@@ -1,5 +1,5 @@
 <div align="center">
-<img src="./content/part-7-assets/brightdeveloper-banner.png" alt="BrightDeveloper - Build for BrightSign" width="100%">
+<img src="./documentation/part-7-assets/brightdeveloper-banner.png" alt="BrightDeveloper - Build for BrightSign" width="100%">
 
 **The Complete Guide to BrightSign® Development**
 
@@ -32,9 +32,9 @@ If you need information on how to **use these BrightSign products**, please see 
 
 | Chapter | Description |
 |---------|-------------|
-| [Introduction to BrightSign Players](content/part-1-getting-started/01-introduction-to-brightsign-players.md) | Hardware overview, models, and capabilities |
+| [Introduction to BrightSign Players](documentation/part-1-getting-started/01-introduction-to-brightsign-players.md) | Hardware overview, models, and capabilities |
 
-[**Explore Part 1 →**](content/part-1-getting-started/README.md)
+[**Explore Part 1 →**](documentation/part-1-getting-started/README.md)
 
 ---
 
@@ -44,13 +44,13 @@ If you need information on how to **use these BrightSign products**, please see 
 
 | Chapter | Description |
 |---------|-------------|
-| [BrightScript Language Reference](content/part-2-brightscript-development/01-brightscript-language-reference.md) | Syntax, types, and language fundamentals |
-| [Practical Development](content/part-2-brightscript-development/02-practical-development.md) | Real-world development techniques |
-| [Debugging BrightScript](content/part-2-brightscript-development/03-debugging-brightscript.md) | Tools and strategies for debugging |
-| [Design Patterns](content/part-2-brightscript-development/04-design-patterns.md) | Best practices and patterns |
-| [Plugin Architecture](content/part-2-brightscript-development/05-plugin-architecture.md) | Building modular applications |
+| [BrightScript Language Reference](documentation/part-2-brightscript-development/01-brightscript-language-reference.md) | Syntax, types, and language fundamentals |
+| [Practical Development](documentation/part-2-brightscript-development/02-practical-development.md) | Real-world development techniques |
+| [Debugging BrightScript](documentation/part-2-brightscript-development/03-debugging-brightscript.md) | Tools and strategies for debugging |
+| [Design Patterns](documentation/part-2-brightscript-development/04-design-patterns.md) | Best practices and patterns |
+| [Plugin Architecture](documentation/part-2-brightscript-development/05-plugin-architecture.md) | Building modular applications |
 
-[**Explore Part 2 →**](content/part-2-brightscript-development/README.md) · [**View Examples →**](content/part-2-brightscript-development/examples/README.md)
+[**Explore Part 2 →**](documentation/part-2-brightscript-development/README.md) · [**View Examples →**](documentation/part-2-brightscript-development/examples/README.md)
 
 ---
 
@@ -60,11 +60,11 @@ If you need information on how to **use these BrightSign products**, please see 
 
 | Chapter | Description |
 |---------|-------------|
-| [JavaScript Playback](content/part-3-javascript-development/01-javascript-playback.md) | HTML5 and web content playback |
-| [JavaScript Node Programs](content/part-3-javascript-development/02-javascript-node-programs.md) | Server-side JavaScript development |
-| [Debugging JavaScript](content/part-3-javascript-development/03-debugging-javascript.md) | Chrome DevTools and debugging techniques |
+| [JavaScript Playback](documentation/part-3-javascript-development/01-javascript-playback.md) | HTML5 and web content playback |
+| [JavaScript Node Programs](documentation/part-3-javascript-development/02-javascript-node-programs.md) | Server-side JavaScript development |
+| [Debugging JavaScript](documentation/part-3-javascript-development/03-debugging-javascript.md) | Chrome DevTools and debugging techniques |
 
-[**Explore Part 3 →**](content/part-3-javascript-development/README.md) · [**View Examples →**](content/part-3-javascript-development/examples/README.md)
+[**Explore Part 3 →**](documentation/part-3-javascript-development/README.md) · [**View Examples →**](documentation/part-3-javascript-development/examples/README.md)
 
 ---
 
@@ -74,12 +74,12 @@ If you need information on how to **use these BrightSign products**, please see 
 
 | Chapter | Description |
 |---------|-------------|
-| [Introduction to Native Extensions](content/part-4-advanced-topics/01-intro-to-extensions.md) | Getting started with C/C++ extensions |
-| [Advanced Native Extensions](content/part-4-advanced-topics/02-advanced-extensions.md) | Complex extension development |
-| [Writing Software for the NPU](content/part-4-advanced-topics/03-writing-software-for-the-npu.md) | Neural Processing Unit programming |
-| [Hardware Integrations](content/part-4-advanced-topics/04-hardware-integrations.md) | GPIO, serial, and peripherals |
+| [Introduction to Native Extensions](documentation/part-4-advanced-topics/01-intro-to-extensions.md) | Getting started with C/C++ extensions |
+| [Advanced Native Extensions](documentation/part-4-advanced-topics/02-advanced-extensions.md) | Complex extension development |
+| [Writing Software for the NPU](documentation/part-4-advanced-topics/03-writing-software-for-the-npu.md) | Neural Processing Unit programming |
+| [Hardware Integrations](documentation/part-4-advanced-topics/04-hardware-integrations.md) | GPIO, serial, and peripherals |
 
-[**Explore Part 4 →**](content/part-4-advanced-topics/README.md) · [**View Examples →**](content/part-4-advanced-topics/examples/README.md)
+[**Explore Part 4 →**](documentation/part-4-advanced-topics/README.md) · [**View Examples →**](documentation/part-4-advanced-topics/examples/README.md)
 
 ---
 
@@ -89,12 +89,12 @@ If you need information on how to **use these BrightSign products**, please see 
 
 | Chapter | Description |
 |---------|-------------|
-| [Integrating with BSN.cloud](content/part-5-bsn-cloud/01-integrating-with-bsn-cloud.md) | Platform overview and authentication |
-| [Automated Provisioning](content/part-5-bsn-cloud/02-automated-provisioning.md) | Streamline device deployment |
-| [Per-Player Control](content/part-5-bsn-cloud/03-per-player-control.md) | Individual player management |
-| [BSN.content](content/part-5-bsn-cloud/04-bsn-content.md) | Content management and distribution |
+| [Integrating with BSN.cloud](documentation/part-5-bsn-cloud/01-integrating-with-bsn-cloud.md) | Platform overview and authentication |
+| [Automated Provisioning](documentation/part-5-bsn-cloud/02-automated-provisioning.md) | Streamline device deployment |
+| [Per-Player Control](documentation/part-5-bsn-cloud/03-per-player-control.md) | Individual player management |
+| [BSN.content](documentation/part-5-bsn-cloud/04-bsn-content.md) | Content management and distribution |
 
-[**Explore Part 5 →**](content/part-5-bsn-cloud/README.md) · [**View Examples →**](content/part-5-bsn-cloud/examples/README.md)
+[**Explore Part 5 →**](documentation/part-5-bsn-cloud/README.md) · [**View Examples →**](documentation/part-5-bsn-cloud/examples/README.md)
 
 ---
 
@@ -102,10 +102,10 @@ If you need information on how to **use these BrightSign products**, please see 
 
 | Resource | Description |
 |----------|-------------|
-| [API Reference](content/part-6-appendices/api-reference.md) | Complete API documentation |
-| [Troubleshooting](content/part-6-appendices/troubleshooting.md) | Common issues and solutions |
+| [API Reference](documentation/part-6-appendices/api-reference.md) | Complete API documentation |
+| [Troubleshooting](documentation/part-6-appendices/troubleshooting.md) | Common issues and solutions |
 
-[**View Appendices →**](content/part-6-appendices/README.md)
+[**View Appendices →**](documentation/part-6-appendices/README.md)
 
 ---
 
@@ -115,10 +115,10 @@ Practical, production-ready code examples to accelerate your development:
 
 | Section | Language | Content |
 |---------|----------|---------|
-| [BrightScript Examples](content/part-2-brightscript-development/examples/README.md) | BrightScript | 27 examples covering foundations, objects, media, and production patterns |
-| [JavaScript Examples](content/part-3-javascript-development/examples/README.md) | JavaScript/HTML5 | Web widgets and Node.js programs |
-| [Extension Examples](content/part-4-advanced-topics/examples/README.md) | C/C++ | Native extension development |
-| [Cloud Examples](content/part-5-bsn-cloud/examples/README.md) | Python/JavaScript | BSN.cloud API integration scripts |
+| [BrightScript Examples](documentation/part-2-brightscript-development/examples/README.md) | BrightScript | 27 examples covering foundations, objects, media, and production patterns |
+| [JavaScript Examples](documentation/part-3-javascript-development/examples/README.md) | JavaScript/HTML5 | Web widgets and Node.js programs |
+| [Extension Examples](documentation/part-4-advanced-topics/examples/README.md) | C/C++ | Native extension development |
+| [Cloud Examples](documentation/part-5-bsn-cloud/examples/README.md) | Python/JavaScript | BSN.cloud API integration scripts |
 
 ---
 
@@ -176,7 +176,7 @@ We welcome contributions from the community! Please see [CONTRIBUTING.md](CONTRI
 
 <div align="center">
 
-<img src="content/part-7-assets/brand/brightsign-logo-square.png" alt="BrightSign" width="60">
+<img src="documentation/part-7-assets/brand/brightsign-logo-square.png" alt="BrightSign" width="60">
 
 **Brought to Life by BrightSign®**
 
