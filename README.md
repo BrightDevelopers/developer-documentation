@@ -19,8 +19,10 @@
 
 This GitHub organization is "**by developers __for__ developers**" and hosts detailed Engineering and API documentation, example code, SDKs, and open-source tools to help you build applications that integrate with BrightSign.
 
-These pages are specific to folks writing software that works with BrightSign.  For many users, our turnkey solutions provide everything you need.  You can create and publish presentations without code using [**BrightAuthor:connected**](https://www.brightsign.biz/brightauthor-connected/) and manage players using [**BSN.cloud**](https://www.brightsign.biz/bsn-cloud/).
-If you need information on how to **use these BrightSign products**, please see the [BrightSign Support Site.](https://www.brightsign.biz/support)
+These pages are specific to folks writing software that works with BrightSign.  If you don't write code you might be delighted with the core BrightSign products - including our award-winning low-code/no-code media authoring tool [**BrightAuthor:connected**](https://www.brightsign.biz/brightauthor-connected/) and/or our award-winning media-player control system [**BSN.cloud**](https://www.brightsign.biz/bsn-cloud/).
+If you need information on how to **use these BrightSign products**, please see the [BrightSign Support Site.](https://www.brightsign.biz/support).
+
+But if you are a software developer who wants to **build things** using BrightSign, you are in the right place!
 
 ---
 
